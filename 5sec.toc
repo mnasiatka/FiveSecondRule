@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: Five Second Rule
+## Notes: Track when your mana will start regenerating in combat
+## Author: ythogh
+## Version: 0.1
+## SavedVariables: ProgressBarPosition, ProgressBarIsActive
+
+core.xml
+core.lua
